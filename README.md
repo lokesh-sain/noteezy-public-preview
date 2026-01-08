@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Live Demo  
-**🔗 https://noteezy.vercel.app**
+**🔗 https://noteezy.lokeshsain.com**
 
 ---
 
